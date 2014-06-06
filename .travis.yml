@@ -5,4 +5,4 @@ android:
 
 script:
     - cd EventPlanner
-    - mvn compile package
+    - mvn compile package -e -X
